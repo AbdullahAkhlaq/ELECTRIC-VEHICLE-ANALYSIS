@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-blue?logo=powerbi&logoColor=white)
+
 # Electric Vehicle Analysis Dashboard
 ![](https://github.com/AbdullahAkhlaq/ELECTRIC-VEHICLE-ANALYSIS/blob/main/Electric%20Vehicles%20Analysis.jpg)
 
